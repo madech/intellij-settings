@@ -11,8 +11,5 @@
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
-  <action id="Macro.Format Save">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl s" />
-  </action>
   <action id="SaveAll" />
 </keymap>
