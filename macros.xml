@@ -7,7 +7,6 @@
     </macro>
     <macro name="F Save">
       <action id="ReformatCode" />
-      <action id="RearrangeCode" />
       <action id="SaveAll" />
     </macro>
   </component>
