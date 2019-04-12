@@ -3,7 +3,11 @@
     <keyboard-shortcut first-keystroke="shift f3" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="Macro.Format Save">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl s" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="SaveAll" />
 </keymap>
