@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="RAID_PD_LHGC" type="CSV" />
+      <mapping pattern="RAID_PD_LDC" type="PLAIN_TEXT" />
+      <mapping pattern="RAID_PD_PLC" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
