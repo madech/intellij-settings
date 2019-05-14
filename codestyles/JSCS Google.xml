@@ -9,6 +9,18 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <package name="" withSubpackages="true" static="true" />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="false" />
+        <package name="javax" withSubpackages="true" static="false" />
+        <package name="java" withSubpackages="true" static="false" />
+        <package name="org" withSubpackages="true" static="false" />
+      </value>
+    </option>
+  </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
