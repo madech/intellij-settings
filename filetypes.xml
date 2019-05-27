@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="RAID_PD_LHGC" type="CSV" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="RAID_PD_VVC" type="PLAIN_TEXT" />
       <mapping pattern="RAID_PD_LDC" type="PLAIN_TEXT" />
       <mapping pattern="RAID_PD_PLC" type="PLAIN_TEXT" />
     </extensionMap>
